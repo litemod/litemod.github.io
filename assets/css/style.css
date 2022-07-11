@@ -6,7 +6,7 @@ body {
 	background-image: url(../img/background1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: fixed
+	background-attachment: fixed;
 	background: rgb(214,214,214);
 	background: linear-gradient(0deg, rgba(214,214,214,1) 0%, rgba(0,0,0,1) 100%);
 }
